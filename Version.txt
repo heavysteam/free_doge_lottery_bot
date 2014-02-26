@@ -1,0 +1,7 @@
+This is a list of versions and commits
+==========================
+V0.0 	- FORKED from random_act_of_doge
+V0.1	- First working version.
+V0.2	- Added print commands to program, so current status appears in shell e.g. Getting Comments or Found a Winner! (mostly for debugging purposes - knowing where it got stuck)
+V0.3	- Added timecodes to status prints.
+C17 	- Commited 0.3 to Github page.
